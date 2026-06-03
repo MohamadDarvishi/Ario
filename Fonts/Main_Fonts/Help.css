@@ -1,0 +1,33 @@
+/* نمونه‌ای از قرارگیری فونت متغیر در وب سایت*/
+
+@font-face {
+	font-family: Ario;
+	font-style: normal;
+	font-weight: Bold;
+	src: url('woff2/Ario.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+/* فعال کردن ویژگی های مختلف استایلتیک ست ها*/
+
+.Digit_Substitution_Arabic_and_English_to_Persian {
+font-feature-settings: "ss01";
+}
+
+.Swash_Kaf_and_Gaf {
+font-feature-settings: "ss02";
+}
+
+.Reversed_Yeh {
+font-feature-settings: "ss03";
+}
+
+/* ویژگی Swash*/
+.sample_tabular_numbers {
+font-feature-settings: "swsh";
+}
+
+/* ویژگی اعداد Tabular*/
+.sample_tabular_numbers {
+font-feature-settings: "tnum";
+}
