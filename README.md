@@ -4,7 +4,7 @@
 <li><a href="https://mohamaddarvishi.ir/Ario/">صفحۀ اصلی پروژه</a></li>
 <li><a href="https://mohamaddarvishi.ir/Ario/docs/">راهنما</a></li>
 <li><a href="https://mohamaddarvishi.ir/Ario/changelog/">فهرست تغییرات</a></li>
-<li><a href="https://daramet.com/mdarvishi5124">حمایت مالی</a></li>
+<li><a href="https://mohamaddarvishi.ir/Ario/donate/">حمایت مالی</a></li>
 
 ### چه چیز هایی برای انجام وجود دارد؟
 - مواردی که گزارش می‌شود
